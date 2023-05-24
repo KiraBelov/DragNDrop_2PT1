@@ -4,5 +4,5 @@ Projeckt demostret grag and grop funkcijas. Spele merkis ir pec iepajas isaka la
 ## Veico darbu saraksts:
 - [] Iespeja parietot transportlidzieklu ar peles palidziba
 - [] Iespeja transportalidzekli nolikt briva vieta uz kartes 
-- [] Iespeja transportalidzekli nolikt uz nepareizas laukums
+-[] Iespeja transportalidzekli nolikt uz nepareizas laukums
 - [] 
